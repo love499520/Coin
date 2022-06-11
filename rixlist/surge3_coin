@@ -1,112 +1,114 @@
-# CEFI
-DOMAIN-SUFFIX,aex.com,force-remote-dns
-DOMAIN-SUFFIX,bibox.com,force-remote-dns
-DOMAIN-SUFFIX,binance.cc,force-remote-dns
-DOMAIN-SUFFIX,binance.com,force-remote-dns
-DOMAIN-SUFFIX,binance.cloud,force-remote-dns
-DOMAIN-SUFFIX,bntrace.com,force-remote-dns
-DOMAIN-SUFFIX,binancefuture.com,force-remote-dns
-DOMAIN-SUFFIX,bnappzh.com,force-remote-dns
-DOMAIN-SUFFIX,bnbstatic.com,force-remote-dns
-DOMAIN-SUFFIX,binance.im,force-remote-dns
-DOMAIN-SUFFIX,binance.me,force-remote-dns
-DOMAIN-SUFFIX,bitcointalk.org,force-remote-dns
-DOMAIN-SUFFIX,bitfinex.com,force-remote-dns
-DOMAIN-SUFFIX,bitmex.com,force-remote-dns
-DOMAIN-SUFFIX,dutils.com,force-remote-dns
-DOMAIN-SUFFIX,ftx.com,force-remote-dns
-DOMAIN-SUFFIX,gate.io,force-remote-dns
-DOMAIN-SUFFIX,huobi.com,force-remote-dns
-DOMAIN-SUFFIX,huobi.li,force-remote-dns
-DOMAIN-SUFFIX,huobi.vc,force-remote-dns
-DOMAIN-SUFFIX,huobi.ws,force-remote-dns
-DOMAIN-SUFFIX,huobi.ae,force-remote-dns
-DOMAIN-SUFFIX,huobi.bo,force-remote-dns
-DOMAIN-SUFFIX,huobi.bs,force-remote-dns
-DOMAIN-SUFFIX,huobi.do,force-remote-dns
-DOMAIN-SUFFIX,huobi.sk,force-remote-dns
-DOMAIN-SUFFIX,huobi.is,force-remote-dns
-DOMAIN-SUFFIX,okex.com,force-remote-dns
-DOMAIN-SUFFIX,okx.com,force-remote-dns
-DOMAIN-SUFFIX,sushi.com,force-remote-dns
-DOMAIN-SUFFIX,uniswap.org,force-remote-dns
-DOMAIN-SUFFIX,zb.com,force-remote-dns
-DOMAIN-SUFFIX,huobiasia.club,force-remote-dns
-DOMAIN-SUFFIX,huobiasia.vip,force-remote-dns
-DOMAIN-SUFFIX,xfilecache.com,force-remote-dns
-DOMAIN-SUFFIX,woodpeckerlog.com,force-remote-dns
-DOMAIN-SUFFIX,bitvj.com,force-remote-dns
-DOMAIN-SUFFIX,bitvk.com,force-remote-dns
-DOMAIN-SUFFIX,bitderiv.com,force-remote-dns
-DOMAIN-SUFFIX,hbabit.com,force-remote-dns
-DOMAIN-SUFFIX,pexpay.com,force-remote-dns
-DOMAIN-SUFFIX,thepinet.com,force-remote-dns
-DOMAIN-SUFFIX,pionex.com,force-remote-dns
+payload:
+  # Forum
+  # CEFI
+  - DOMAIN-SUFFIX,aex.com
+  - DOMAIN-SUFFIX,bibox.com
+  - DOMAIN-SUFFIX,binance.cc
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN-SUFFIX,binancefuture.com
+  - DOMAIN-SUFFIX,bnappzh.com
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,binance.im
+  - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,bitcointalk.org
+  - DOMAIN-SUFFIX,bitfinex.com
+  - DOMAIN-SUFFIX,bitmex.com
+  - DOMAIN-SUFFIX,dutils.com
+  - DOMAIN-SUFFIX,ftx.com
+  - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,huobi.com
+  - DOMAIN-SUFFIX,huobi.li
+  - DOMAIN-SUFFIX,huobi.vc
+  - DOMAIN-SUFFIX,huobi.ws
+  - DOMAIN-SUFFIX,huobi.ae
+  - DOMAIN-SUFFIX,huobi.bo
+  - DOMAIN-SUFFIX,huobi.bs
+  - DOMAIN-SUFFIX,huobi.do
+  - DOMAIN-SUFFIX,huobi.sk
+  - DOMAIN-SUFFIX,huobi.is
+  - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,sushi.com
+  - DOMAIN-SUFFIX,uniswap.org
+  - DOMAIN-SUFFIX,zb.com
+  - DOMAIN-SUFFIX,huobiasia.club
+  - DOMAIN-SUFFIX,huobiasia.vip
+  - DOMAIN-SUFFIX,xfilecache.com
+  - DOMAIN-SUFFIX,woodpeckerlog.com
+  - DOMAIN-SUFFIX,bitvj.com
+  - DOMAIN-SUFFIX,bitvk.com
+  - DOMAIN-SUFFIX,bitderiv.com
+  - DOMAIN-SUFFIX,hbabit.com
+  - DOMAIN-SUFFIX,pexpay.com
+  - DOMAIN-SUFFIX,thepinet.com
+  - DOMAIN-SUFFIX,pionex.com
 
-# Defi
-DOMAIN-SUFFIX,mdex.com,force-remote-dns
-DOMAIN-SUFFIX,mdex.me,force-remote-dns
-DOMAIN-SUFFIX,mdex.co,force-remote-dns
-DOMAIN-SUFFIX,mdex.cc,force-remote-dns
-DOMAIN-SUFFIX,coinwind.com,force-remote-dns
-DOMAIN-SUFFIX,coinwind.pro,force-remote-dns
-DOMAIN-SUFFIX,sun.io,force-remote-dns
-DOMAIN-SUFFIX,justswap.io,force-remote-dns
-DOMAIN-SUFFIX,depth.fi,force-remote-dns
-DOMAIN-SUFFIX,hswap.com,force-remote-dns
-DOMAIN-SUFFIX,coin.top,force-remote-dns
-DOMAIN-SUFFIX,westarter.org,force-remote-dns
+  # Defi
+  - DOMAIN-SUFFIX,mdex.com
+  - DOMAIN-SUFFIX,mdex.me
+  - DOMAIN-SUFFIX,mdex.co
+  - DOMAIN-SUFFIX,mdex.cc
+  - DOMAIN-SUFFIX,coinwind.com
+  - DOMAIN-SUFFIX,coinwind.pro
+  - DOMAIN-SUFFIX,sun.io
+  - DOMAIN-SUFFIX,justswap.io
+  - DOMAIN-SUFFIX,depth.fi
+  - DOMAIN-SUFFIX,hswap.com
+  - DOMAIN-SUFFIX,coin.top
+  - DOMAIN-SUFFIX,westarter.org
 
-# Wallet
-DOMAIN-SUFFIX,hbwallet.net,force-remote-dns
-DOMAIN-SUFFIX,mytokenpocket.vip,force-remote-dns
-DOMAIN-SUFFIX,tokenpocket.pro,force-remote-dns
-DOMAIN-SUFFIX,tronlink.org,force-remote-dns
-DOMAIN-SUFFIX,hbwalletapi.net,force-remote-dns
-DOMAIN-SUFFIX,quickwallet.io,force-remote-dns
+  # Wallet
+  - DOMAIN-SUFFIX,hbwallet.net
+  - DOMAIN-SUFFIX,mytokenpocket.vip
+  - DOMAIN-SUFFIX,tokenpocket.pro
+  - DOMAIN-SUFFIX,tronlink.org
+  - DOMAIN-SUFFIX,hbwalletapi.net
+  - DOMAIN-SUFFIX,quickwallet.io
 
-# Miner
-DOMAIN-SUFFIX,unmineable.com,force-remote-dns
-DOMAIN-SUFFIX,unminable.com,force-remote-dns
+  # Miner
+  - DOMAIN-SUFFIX,unmineable.com
+  - DOMAIN-SUFFIX,unminable.com
 
-# Chain
-DOMAIN-SUFFIX,hecochain.com,force-remote-dns
-DOMAIN-SUFFIX,tronalliance.com,force-remote-dns
-DOMAIN-SUFFIX,tronalliance.cc,force-remote-dns
-DOMAIN-SUFFIX,trongrid.io,force-remote-dns
-DOMAIN-SUFFIX,infura.io,force-remote-dns
-DOMAIN-SUFFIX,binance.org,force-remote-dns
-DOMAIN-SUFFIX,http-mainnet-node.huobichain.com,force-remote-dns
+  # Chain
+  - DOMAIN-SUFFIX,hecochain.com
+  - DOMAIN-SUFFIX,tronalliance.com
+  - DOMAIN-SUFFIX,tronalliance.cc
+  - DOMAIN-SUFFIX,trongrid.io
+  - DOMAIN-SUFFIX,infura.io
+  - DOMAIN-SUFFIX,binance.org
+  - DOMAIN-SUFFIX,http-mainnet-node.huobichain.com
 
-# Dapp
-DOMAIN-SUFFIX,tronscan.io,force-remote-dns
-DOMAIN-SUFFIX,tronscan.org,force-remote-dns
-DOMAIN-SUFFIX,hogt.com,force-remote-dns
-DOMAIN-SUFFIX,yfx.com,force-remote-dns
-DOMAIN-SUFFIX,quickchart.io,force-remote-dns
-DOMAIN-SUFFIX,ajax.cloudflare.com,force-remote-dns
-DOMAIN-SUFFIX,coingecko.com,force-remote-dns
-DOMAIN-SUFFIX,min-api.cryptocompare.com,force-remote-dns
-DOMAIN-SUFFIX,wink.org,force-remote-dns
-DOMAIN-SUFFIX,faviconkit.com,force-remote-dns
-DOMAIN-SUFFIX,sgem.io,force-remote-dns
+  # Dapp
+  - DOMAIN-SUFFIX,tronscan.io
+  - DOMAIN-SUFFIX,tronscan.org
+  - DOMAIN-SUFFIX,hogt.com
+  - DOMAIN-SUFFIX,yfx.com
+  - DOMAIN-SUFFIX,quickchart.io
+  - DOMAIN-SUFFIX,ajax.cloudflare.com
+  - DOMAIN-SUFFIX,coingecko.com
+  - DOMAIN-SUFFIX,min-api.cryptocompare.com
+  - DOMAIN-SUFFIX,wink.org
+  - DOMAIN-SUFFIX,faviconkit.com
+  - DOMAIN-SUFFIX,sgem.io
 
-# Swap
-DOMAIN-SUFFIX,justswap.io,force-remote-dns
-DOMAIN-SUFFIX,just.network,force-remote-dns
+  # Swap
+  - DOMAIN-SUFFIX,justswap.io
+  - DOMAIN-SUFFIX,just.network
 
-# News
-DOMAIN-SUFFIX,bishijie.com,force-remote-dns
-DOMAIN-SUFFIX,blocktempo.com,force-remote-dns
-DOMAIN-SUFFIX,chainnews.com,force-remote-dns
+  # News
+  - DOMAIN-SUFFIX,bishijie.com
+  - DOMAIN-SUFFIX,blocktempo.com
+  - DOMAIN-SUFFIX,chainnews.com
 
-# Info
-DOMAIN-SUFFIX,coinmarketcap.com,force-remote-dns
-DOMAIN-SUFFIX,feixiaoquan.com,force-remote-dns
-DOMAIN-SUFFIX,aicoin.cn,force-remote-dns
-DOMAIN-SUFFIX,bqiapp.com,force-remote-dns
-DOMAIN-SUFFIX,bqrank.net,force-remote-dns
-DOMAIN-SUFFIX,chainfeeds.xyz,force-remote-dns
+  # Info
+  - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,feixiaoquan.com
+  - DOMAIN-SUFFIX,aicoin.cn
+  - DOMAIN-SUFFIX,bqiapp.com
+  - DOMAIN-SUFFIX,bqrank.net
+  - DOMAIN-SUFFIX,chainfeeds.xyz
 
-#NFT
-DOMAIN-SUFFIX,solsea.io,force-remote-dns
+  #NFT
+  - DOMAIN-SUFFIX,solsea.io
